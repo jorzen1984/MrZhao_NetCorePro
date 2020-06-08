@@ -1,0 +1,9 @@
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_Entity\bin\Debug\netstandard2.0\MrZhao_NetCorePro_Entity.deps.json
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_Entity\bin\Debug\netstandard2.0\MrZhao_NetCorePro_Entity.dll
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_Entity\bin\Debug\netstandard2.0\MrZhao_NetCorePro_Entity.pdb
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_Entity\obj\Debug\netstandard2.0\MrZhao_NetCorePro_Entity.csprojAssemblyReference.cache
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_Entity\obj\Debug\netstandard2.0\MrZhao_NetCorePro_Entity.AssemblyInfoInputs.cache
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_Entity\obj\Debug\netstandard2.0\MrZhao_NetCorePro_Entity.AssemblyInfo.cs
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_Entity\obj\Debug\netstandard2.0\MrZhao_NetCorePro_Entity.csproj.CoreCompileInputs.cache
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_Entity\obj\Debug\netstandard2.0\MrZhao_NetCorePro_Entity.dll
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_Entity\obj\Debug\netstandard2.0\MrZhao_NetCorePro_Entity.pdb

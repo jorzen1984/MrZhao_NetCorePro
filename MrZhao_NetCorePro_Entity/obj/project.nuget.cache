@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8tlM7nw1VLALX1PrnttbrnJ9NOhGE1NLgz4OSwdffoGgvwM1hqLD88DxGIeCz5N7ZR6Re20SN68ZCBjNxRj9Iw==",
+  "success": true,
+  "projectFilePath": "E:\\SkyProject\\2020\\MrZhao_NetCorePro\\MrZhao_NetCorePro_Entity\\MrZhao_NetCorePro_Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

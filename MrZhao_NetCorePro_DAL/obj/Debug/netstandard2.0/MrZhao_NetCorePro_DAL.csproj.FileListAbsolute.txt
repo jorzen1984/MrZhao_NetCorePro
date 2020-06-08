@@ -1,0 +1,12 @@
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_DAL\bin\Debug\netstandard2.0\MrZhao_NetCorePro_DAL.deps.json
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_DAL\bin\Debug\netstandard2.0\MrZhao_NetCorePro_DAL.dll
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_DAL\obj\Debug\netstandard2.0\MrZhao_NetCorePro_DAL.AssemblyInfoInputs.cache
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_DAL\obj\Debug\netstandard2.0\MrZhao_NetCorePro_DAL.AssemblyInfo.cs
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_DAL\obj\Debug\netstandard2.0\MrZhao_NetCorePro_DAL.csprojAssemblyReference.cache
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_DAL\bin\Debug\netstandard2.0\MrZhao_NetCorePro_DAL.pdb
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_DAL\bin\Debug\netstandard2.0\MrZhao_NetCorePro_Entity.dll
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_DAL\bin\Debug\netstandard2.0\MrZhao_NetCorePro_Entity.pdb
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_DAL\obj\Debug\netstandard2.0\MrZhao_NetCorePro_DAL.csproj.CopyComplete
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_DAL\obj\Debug\netstandard2.0\MrZhao_NetCorePro_DAL.dll
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_DAL\obj\Debug\netstandard2.0\MrZhao_NetCorePro_DAL.pdb
+E:\SkyProject\2020\MrZhao_NetCorePro\MrZhao_NetCorePro_DAL\obj\Debug\netstandard2.0\MrZhao_NetCorePro_DAL.csproj.CoreCompileInputs.cache
