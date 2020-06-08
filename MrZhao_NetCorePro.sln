@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrZhao_NetCorePro_Web", "MrZhao_NetCorePro_Web\MrZhao_NetCorePro_Web.csproj", "{B61493C8-844B-45C4-B093-CFDCF90950EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrZhao_NetCorePro_Entity", "MrZhao_NetCorePro_Entity\MrZhao_NetCorePro_Entity.csproj", "{E50AFA4A-851E-493F-84F9-AF44F1E0FC21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrZhao_NetCorePro_Entity", "MrZhao_NetCorePro_Entity\MrZhao_NetCorePro_Entity.csproj", "{E50AFA4A-851E-493F-84F9-AF44F1E0FC21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrZhao_NetCorePro_DAL", "MrZhao_NetCorePro_DAL\MrZhao_NetCorePro_DAL.csproj", "{A74D0EAA-C20A-4E04-9999-107BFC4FA1FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrZhao_NetCorePro_DAL", "MrZhao_NetCorePro_DAL\MrZhao_NetCorePro_DAL.csproj", "{A74D0EAA-C20A-4E04-9999-107BFC4FA1FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrZhao_NetCorePro_ConsoleApp", "MrZhao_NetCorePro_ConsoleApp\MrZhao_NetCorePro_ConsoleApp.csproj", "{60099EC9-B673-409E-AF82-9A3D1465EAD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrZhao_NetCorePro_ConsoleApp", "MrZhao_NetCorePro_ConsoleApp\MrZhao_NetCorePro_ConsoleApp.csproj", "{60099EC9-B673-409E-AF82-9A3D1465EAD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MrZhao_NetCorePro_Service", "MrZhao_NetCorePro_Service\MrZhao_NetCorePro_Service.csproj", "{91715FDD-016E-4B8A-9368-0B4C674BB8CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{60099EC9-B673-409E-AF82-9A3D1465EAD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60099EC9-B673-409E-AF82-9A3D1465EAD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60099EC9-B673-409E-AF82-9A3D1465EAD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91715FDD-016E-4B8A-9368-0B4C674BB8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91715FDD-016E-4B8A-9368-0B4C674BB8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91715FDD-016E-4B8A-9368-0B4C674BB8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91715FDD-016E-4B8A-9368-0B4C674BB8CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
